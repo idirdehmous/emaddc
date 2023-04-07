@@ -12,7 +12,8 @@ import datetime
 from mpl_toolkits.axes_grid1 import make_axes_locatable
 from  math  import exp
 
-"""PYTHON SCRIPT TO PLOT 2D DIAGRAMS OF FRACTION 
+"""PROLOGUE 
+   PYTHON SCRIPT TO PLOT 2D DIAGRAMS OF FRACTION 
    SKILL SCORE (FSS ), AND FSS ACCORDING TO THE 
    WINDOWS SIZE 
 
